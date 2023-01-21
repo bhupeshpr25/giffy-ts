@@ -4,7 +4,7 @@
   "description": "display gifs on hovering above text",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bhupeshpr25/giffy.git"
+    "url": "git+https://github.com/bhupeshpr25/giffy-ts.git"
   },
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
