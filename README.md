@@ -1,4 +1,4 @@
-# giffy-ts
+# giffy-ts [WIP]
 
 typescript package to display gifs on hovering above text
 
